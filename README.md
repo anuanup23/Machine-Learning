@@ -1,4 +1,4 @@
-# Machine-Learning
+# Image Captioning Model Overview
 
 
 Image Captioning is the process of generating a textual description for given images. It has been
